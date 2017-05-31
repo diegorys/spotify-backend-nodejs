@@ -1,0 +1,19 @@
+{
+  "name": "spotify-backend-nodejs",
+  "version": "1.0.0",
+  "description": "API REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegorys/spotify-backend-nodejs.git"
+  },
+  "author": "diegorys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegorys/spotify-backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/diegorys/spotify-backend-nodejs#readme"
+}
